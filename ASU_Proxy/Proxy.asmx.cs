@@ -38,8 +38,8 @@ namespace ASU_Proxy
                      "<soapenv:Envelope xmlns:soapenv='http://schemas.xmlsoap.org/soap/envelope/' xmlns:sys='SysEtranInt'>" +
                       "<soapenv:Body>" +
                      "<sys:GetBlock>" +
-                     "<Login>ДУРАКОВ_ВА</Login>" +
-                     "<Password>RO238533ye</Password>" +
+                     "<Login></Login>" +
+                     "<Password></Password>" +
                      "<Text>" +                
                       Perem+
                     "</Text>" +
